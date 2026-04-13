@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**h5d7r/h5d7r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+Hi, I'm Haider A.H (`h5d7r`) 👋
+Full Stack Developer & Designer
+<br/>
+<a href="https://t.me/C2_9H">
+  <img src="https://img.shields.io/badge/Telegram-C2__9H-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+</a>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,c,cpp,cs,lua,java,html,css&theme=dark" />
+</div>
